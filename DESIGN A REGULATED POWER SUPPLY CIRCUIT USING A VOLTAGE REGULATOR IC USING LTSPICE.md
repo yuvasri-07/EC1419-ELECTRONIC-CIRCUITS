@@ -6,13 +6,10 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
-<img width="874" height="1280" alt="image" src="https://github.com/user-attachments/assets/a5f37b7d-0b48-4054-98ee-838c58c9a28b" />
-
-
 ## Graph
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cff02f03-fdac-4373-8234-9c0e9c73dc04" />
 
 
+![WhatsApp Image 2025-11-10 at 15 40 15](https://github.com/user-attachments/assets/4172fad8-510b-4034-ae90-6c85c3f6a5fb)
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
+
